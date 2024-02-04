@@ -1,5 +1,3 @@
-
-
 print("Welcome to the tip calculator.")
 
 # Get the total bill from the user
