@@ -52,5 +52,5 @@ while keep:
         keep = False
         print("Fim do programa")
     else:
-        print("Opção inválida. Por favor, digite 'sim' para continuar ou 'nao' para finalizar.")
+        print("Opção inválida. Por favor, digite 'sim' para continuar ou 'nao' para finalizar!")
         
